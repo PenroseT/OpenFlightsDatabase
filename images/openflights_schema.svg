@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="450.60211mm"
+   height="422.95981mm"
+   viewBox="0 0 321.85865 302.11415"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   sodipodi:docname="openflights_schema.svg"
+   inkscape:export-filename="openflights_schema.png"
+   inkscape:export-xdpi="250"
+   inkscape:export-ydpi="250"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.3066647"
+     inkscape:cx="989.68027"
+     inkscape:cy="906.52756"
+     inkscape:window-width="1920"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(24.313378,39.022366)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:3.57142856;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="318.14279"
+       height="298.39828"
+       x="-22.455448"
+       y="-37.164436"
+       rx="17.87781"
+       ry="13.526684" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3"
+       width="69.200272"
+       height="82.967979"
+       x="-6.4680476"
+       y="76.236618"
+       rx="2.9979746"
+       ry="3.2892656" />
+    <rect
+       style="fill:#afdde9;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-4"
+       width="69.233719"
+       height="16.731983"
+       x="-6.4844599"
+       y="75.978188"
+       rx="3.8905392"
+       ry="4.3583241" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.039413"
+       y="86.79982"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.039413"
+         y="86.79982">Airlines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="40.283974"
+       y="55.270164"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="40.283974"
+         y="55.270164" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="99.614532"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="99.614532">airline_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.765755"
+       y="106.61453"
+       id="text3-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.765755"
+         y="106.61453">airline_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="120.61446"
+       id="text3-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="120.61446">iata</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="127.61444"
+       id="text3-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="127.61444">icao</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="134.61447"
+       id="text3-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-06"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="134.61447">callsign</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="148.16119"
+       id="text3-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="148.16119">country</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="28.000515"
+       y="141.5258"
+       id="text3-9-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="28.000515"
+         y="141.5258">country_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="28.578758"
+       y="155.16116"
+       id="text3-9-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="28.578758"
+         y="155.16116">active</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="27.992729"
+       y="113.61453"
+       id="text3-9-15"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="27.992729"
+         y="113.61453">alias</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -6.6274891,101.76065 69.2330811,0.20228"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -6.2084431,130.01486 69.2329951,0.20227"
+       id="path3-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -6.8507781,108.6298 69.2330801,0.20227"
+       id="path3-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -7.0021571,115.46277 69.2331091,0.20227"
+       id="path3-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -6.2084091,122.60653 63.024702,122.8088"
+       id="path3-81" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -7.0021911,149.97991 69.2330131,0.20228"
+       id="path3-31" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -6.4680476,143.41737 69.2330126,0.20228"
+       id="path3-31-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -6.7376171,136.89403 62.495312,137.0963"
+       id="path3-2" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-75"
+       width="69.225204"
+       height="47.017117"
+       x="101.5045"
+       y="185.02808"
+       rx="3"
+       ry="3" />
+    <rect
+       style="fill:#afdde9;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-4-8"
+       width="69.233719"
+       height="16.731983"
+       x="101.50056"
+       y="184.7821"
+       rx="3.8905392"
+       ry="4.3583241" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.02441"
+       y="195.60371"
+       id="text1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.02441"
+         y="195.60371">Countries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.97775"
+       y="208.4184"
+       id="text3-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.97775"
+         y="208.4184">country_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.75076"
+       y="215.4184"
+       id="text3-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.75076"
+         y="215.4184">country_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.97775"
+       y="229.41838"
+       id="text3-9-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.97775"
+         y="229.41838">dafif_code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.97775"
+       y="222.41838"
+       id="text3-9-15-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-9-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.97775"
+         y="222.41838">iso_code</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.35751,210.56486 69.23309,0.20227"
+       id="path3-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.13422,217.43401 69.23309,0.20227"
+       id="path3-3-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.98285,224.26694 69.23311,0.20227"
+       id="path3-1-3" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-2"
+       width="69.226173"
+       height="46.899521"
+       x="100.44975"
+       y="-17.153702"
+       rx="3"
+       ry="3" />
+    <rect
+       style="fill:#afdde9;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-4-5"
+       width="69.233719"
+       height="16.731983"
+       x="100.44627"
+       y="-17.399185"
+       rx="3.8905392"
+       ry="4.3583241" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.97015"
+       y="-6.5775719"
+       id="text1-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="133.97015"
+         y="-6.5775719">Planes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.127px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="35.837429"
+       y="-16.157848"
+       id="text1-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.127px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="35.837429"
+         y="-16.157848">OpenFlights</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.92346"
+       y="6.237114"
+       id="text3-99"><tspan
+         sodipodi:role="line"
+         id="tspan3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="134.92346"
+         y="6.237114">plane_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.69647"
+       y="13.237129"
+       id="text3-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-05"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="134.69647"
+         y="13.237129">plane_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.92346"
+       y="27.237137"
+       id="text3-9-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="134.92346"
+         y="27.237137">icao</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.92346"
+       y="20.237137"
+       id="text3-9-15-4"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="134.92346"
+         y="20.237137">iata</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.30325,8.383498 69.23309,0.2022702"
+       id="path3-94" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.07996,15.252649 69.2331,0.20227"
+       id="path3-3-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 99.928583,22.085579 69.233117,0.20227"
+       id="path3-1-6" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.99999999;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-7"
+       width="69.129021"
+       height="123.42232"
+       x="209.18243"
+       y="54.591026"
+       rx="3"
+       ry="3" />
+    <rect
+       style="fill:#afdde9;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-4-4"
+       width="69.233719"
+       height="16.731983"
+       x="209.1304"
+       y="54.296974"
+       rx="3.8905392"
+       ry="4.3583241" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="242.6543"
+       y="65.118584"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="242.6543"
+         y="65.118584">Airports</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="77.933258"
+       id="text3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="77.933258">airport_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.38065"
+       y="84.933258"
+       id="text3-9-75"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.38065"
+         y="84.933258">airport_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="105.93326"
+       id="text3-9-5-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="105.93326">country</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="99.106987"
+       id="text3-9-5-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0-8-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="99.106987">country_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="112.93324"
+       id="text3-9-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="112.93324">iata</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="119.93321"
+       id="text3-9-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-06-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="119.93321">icao</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="126.47945"
+       id="text3-9-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="126.47945">latitude</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.19363"
+       y="133.47945"
+       id="text3-9-9-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.19363"
+         y="133.47945">longitude</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.07901"
+       y="140.39711"
+       id="text3-9-9-3-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.07901"
+         y="140.39711">altitude</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.34357"
+       y="154.39711"
+       id="text3-9-9-3-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.34357"
+         y="154.39711">DST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.34354"
+       y="161.39711"
+       id="text3-9-9-3-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.34354"
+         y="161.39711">tz_timezone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.25125"
+       y="168.39661"
+       id="text3-9-9-3-3-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.25125"
+         y="168.39661">type</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.65155"
+       y="175.39661"
+       id="text3-9-9-3-3-6-8-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-9-9-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.65155"
+         y="175.39661">source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="244.3436"
+       y="147.39711"
+       id="text3-9-9-3-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="244.3436"
+         y="147.39711">timezone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="243.6076"
+       y="91.933281"
+       id="text3-9-15-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-9-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="243.6076"
+         y="91.933281">city</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.98746,80.079622 69.23311,0.20227"
+       id="path3-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.40651,115.33353 69.23301,0.20227"
+       id="path3-8-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.76418,86.94871 69.23309,0.202266"
+       id="path3-3-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.6128,93.781578 69.23313,0.202266"
+       id="path3-1-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.59163,101.4205 69.23313,0.20227"
+       id="path3-1-8-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.40655,107.9252 69.23312,0.20227"
+       id="path3-81-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.61277,128.2981 69.23302,0.20227"
+       id="path3-31-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.13761,121.56907 69.23295,0.20228"
+       id="path3-2-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.57679,135.29783 69.23293,0.20227"
+       id="path3-2-9-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.57679,142.21284 69.23293,0.20227"
+       id="path3-2-9-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.57679,149.18499 69.23293,0.20227"
+       id="path3-2-9-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.07323,156.41865 69.23294,0.20227"
+       id="path3-2-9-6-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.07323,163.64102 69.23294,0.20227"
+       id="path3-2-9-6-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 209.68476,170.9022 69.23294,0.20227"
+       id="path3-2-9-6-3" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-7-4"
+       width="69.119865"
+       height="94.117859"
+       x="101.4163"
+       y="71.036476"
+       rx="3.0009627"
+       ry="3.1801913" />
+    <rect
+       style="fill:#afdde9;fill-opacity:1;stroke:#333333;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-4-4-0"
+       width="69.233719"
+       height="16.731983"
+       x="101.35962"
+       y="68.662613"
+       rx="3.8905392"
+       ry="4.3583241" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.88347"
+       y="79.484238"
+       id="text1-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="134.88347"
+         y="79.484238">Routes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="92.298927"
+       id="text3-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="92.298927">route_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.6098"
+       y="99.29895"
+       id="text3-9-75-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.6098"
+         y="99.29895">airline_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="113.29891"
+       id="text3-9-5-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-0-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="113.29891">source_airport_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="120.29888"
+       id="text3-9-7-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-2-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="120.29888">source_airport_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="127.29887"
+       id="text3-9-1-8-5"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-06-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="127.29887">destination_airport_name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="133.84517"
+       id="text3-9-9-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="133.84517">destination_airport_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.42281"
+       y="140.84517"
+       id="text3-9-9-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-04"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="136.42281"
+         y="140.84517">codeshare</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.30817"
+       y="147.7628"
+       id="text3-9-9-3-3-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="136.30817"
+         y="147.7628">stops</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.57275"
+       y="154.7628"
+       id="text3-9-9-3-3-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="136.57275"
+         y="154.7628">plane_id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.27219"
+       y="161.81441"
+       id="text3-9-9-3-3-7-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-09-6-3-5-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="136.27219"
+         y="161.81441">plane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.74339px;line-height:1.25;font-family:'Latin Modern Roman Slanted';-inkscape-font-specification:'Latin Modern Roman Slanted, Normal';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.83678"
+       y="106.29893"
+       id="text3-9-15-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-2-9-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, ';stroke-width:0.264583"
+         x="135.83678"
+         y="106.29893">airline_id</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.21662,94.44513 69.23312,0.20227"
+       id="path3-6-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.63567,122.69923 69.23302,0.20228"
+       id="path3-8-0-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.99332,101.31421 69.23312,0.20227"
+       id="path3-3-4-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.84195,108.14715 69.23315,0.20227"
+       id="path3-1-8-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.6357,115.2909 69.23315,0.20227"
+       id="path3-81-8-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.84191,135.6638 69.23306,0.20228"
+       id="path3-31-8-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.36677,128.93478 69.23296,0.20227"
+       id="path3-2-9-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.80593,142.66354 69.23297,0.20227"
+       id="path3-2-9-0-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 100.80593,149.57855 69.23297,0.20227"
+       id="path3-2-9-4-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 101.45245,156.86528 69.23297,0.20227"
+       id="path3-2-9-4-1-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff5555;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.16106,113.26226 5.29487,2.7e-4 34.09721,0.002"
+       id="path4"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.52507,108.42987 4.93086,4.83266"
+       id="path5" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.45593,113.26253 -4.83038,4.73418 -0.10048,0.0985"
+       id="path5-8"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 209.20319,108.28669 -4.93086,4.83266"
+       id="path5-3" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 204.27233,113.11935 4.93086,4.83266"
+       id="path5-8-8" />
+    <path
+       style="fill:#ff5555;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.38525,97.542378 5.29487,2.7e-4 34.09721,0.002"
+       id="path4-0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#ff5555;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.07204,68.987132 2.7e-4,-5.29487 0.002,-34.09721"
+       id="path4-0-2"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.132088,159.20438 -0.002,34.09721 -2.7e-4,5.29487 h 73.375422"
+       id="path4-0-2-7-4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.42738,92.56686 -4.930857,4.832608"
+       id="path5-3-6" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.496523,97.399468 4.930857,4.832632"
+       id="path5-8-8-8" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.154224,159.55433 4.83266,4.93086"
+       id="path5-3-6-9" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.13177,164.62709 5.323193,-5.04978"
+       id="path5-8-8-8-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 240.58912,178.28452 4.83265,4.93086"
+       id="path5-3-6-1" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 245.42177,183.21538 4.83267,-4.93088"
+       id="path5-8-8-8-9" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.72971,217.19439 74.53045,0.0364 0.0167,-5.19901 0.002,-34.09721"
+       id="path6-4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 139.90498,68.623127 -4.83267,-4.930865"
+       id="path5-3-6-5" />
+    <path
+       style="fill:#ff5555;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.07231,63.692262 -4.83265,4.930858"
+       id="path5-8-8-8-34" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.510759,192.64729 v 11.89833"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 66.77778,91.593502 V 103.49174"
+       id="path6-1" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 174.61629,211.24712 v 11.89833"
+       id="path6-2" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.11571,211.24932 v 11.89833"
+       id="path6-2-6" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.715398,192.64729 v 11.89833"
+       id="path6-2-6-0" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 71.21622,91.593752 V 103.49199"
+       id="path6-2-6-0-6" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.02324,33.46069 -11.89832,4e-6"
+       id="path6-19" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.02298,37.962216 -11.89832,4e-6"
+       id="path6-19-4" />
+    <path
+       style="fill:none;stroke:#ff5555;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 204.27233,119.06851 V 107.17019"
+       id="path6-19-7" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7"
+       cx="180.03036"
+       cy="113.26324"
+       r="3" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7-6"
+       cx="245.27844"
+       cy="187.96954"
+       r="3" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7-6-1"
+       cx="28.131681"
+       cy="169.14844"
+       r="3" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7-6-1-7"
+       cx="135.07277"
+       cy="58.823814"
+       r="3" />
+    <circle
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#ff5555;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7-6-1-2"
+       cx="91.776138"
+       cy="97.544464"
+       r="3" />
+  </g>
+</svg>
